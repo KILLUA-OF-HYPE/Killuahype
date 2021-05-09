@@ -1,4 +1,4 @@
-const ownerNumber = ["+1 (951) 468-3921@s.whatsapp.net"] 
+const ownerNumber = ["+55 88 8842-4351@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
 const OriginalOwner = '+55 88 98842-4351' 
@@ -45,7 +45,7 @@ const blockedcmdmsg = '*🚫Este comando esta bloqueado contate o propitetário 
 
 // MENSAGENS DE BAN
 
-const banmsgtype = '*Corra membro comum, o ban estar próximo*'
+const banmsgtype = '*Corra membro comum, o Ban esta próximo*'
 // mensagem de ban no anti tipos de mensagem
 
 const adminmsgtype = '*Tu é adm ent n vou te banir por mandar um tipo de mensagem proibida*'
@@ -54,7 +54,7 @@ const adminmsgtype = '*Tu é adm ent n vou te banir por mandar um tipo de mensag
 const banmsgporn = 'Hmmm pornozinho com antiporn ativado, ja sabe né...'
 // mensagem de ban no antiporn
 
-const adminmsgporn = '*Tu é adm ent n vou te banir por mandar porn*'
+const adminmsgporn = '*Tu é adm ent n vou te banir por mandar porno*'
 // mensagem de quando adm manda porn com antiporn ativado
 
 const banmsglink = 'Corra Membro comum, O ban está próximo...'
@@ -89,7 +89,7 @@ const textmsgnig = 'Konbanwa Onii-chan, espero que tenha tido um bom dia ☺️'
 
 // MENSAGENS DE ERRO
 
-const msgerr = 'Deu erro, poha :/'
+const msgerr = 'Deu erro krlh :/'
 // mensagem de erro
 
 const notregister = `*Comando não registrado, escreva ${prefix}menu para ver a lista de comandos*`
@@ -115,8 +115,8 @@ const dono = 'Meu papai 𝕂𝕀𝕃𝕃𝕌𝔸'
 
 // MENSAGENS DE EXCLUSIVIDADE
 let mess = {
-    wait: '⌛ Pera um pouquin... ⌛',
-    success: '✔️ Sucesso! ✔️',
+    wait: '⌛ Enquanto isso tome um café ☕... ⌛',
+    success: '✔️ Deu certo! ✔️',
     error: {
         stick: '❌ Falha, ocorreu um erro ao converter a imagem em um adesivo ❌',
         Iv: '❌ Link inválido ❌'
@@ -134,7 +134,7 @@ let mess = {
 
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
-+ 'FN:KILLUA^~^\n' 
++ 'FN:Papai❤\n' 
 + 'ORG:Ian;\n' 
 + 'TEL;type=CELL;type=VOICE;waid=558888424351:+55 88 8842-4351\n' 
 + 'END:VCARD'
