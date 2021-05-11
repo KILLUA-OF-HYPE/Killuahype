@@ -70,6 +70,7 @@ return `┏🔥࿗𝕂𝕀𝕃𝕃𝕌𝔸✞𝕆𝔽✞ℍ𝕐ℙ𝔼✞𝔹�
 ➻❥ *${p}roletarussamed*
 ➻❥ *${p}roletarussaeasy*
 ➻❥ *${p}roletarussapac*
+
 OBS:CUIDADO ESTES COMANDOS SÃO PERIGOSOS
 ࿇ ════━━━━━✥◈✥━━━━━════ ࿇
 ☆.｡.*༻🎥𝚅𝚒́𝚍𝚎𝚘🎥༺*.｡.☆

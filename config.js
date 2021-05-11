@@ -1,7 +1,7 @@
 const ownerNumber = ["+55 88 8842-4351@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '+55 88 98842-4351' 
+const OriginalOwner = '+55 88 8842-4351' 
 // mude para seu numero
 
 const gimagenotregister = true
@@ -31,7 +31,7 @@ const menumsgimg = (numero, groupname) => {
 const apikeyimgbb = '1eb4ea79f7e4eef8241d5bdb054adc01'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = ' 𝕂𝕀𝕃𝕃𝕌𝔸 𝐁𝐎𝐓\n' 
+const cr = ' HYPE 𝐁𝐎𝐓\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
@@ -45,7 +45,7 @@ const blockedcmdmsg = '*🚫Este comando esta bloqueado contate o propitetário 
 
 // MENSAGENS DE BAN
 
-const banmsgtype = '*Corra membro comum, o Ban esta próximo*'
+const banmsgtype = '*Corra membro comun você fez merda*'
 // mensagem de ban no anti tipos de mensagem
 
 const adminmsgtype = '*Tu é adm ent n vou te banir por mandar um tipo de mensagem proibida*'
@@ -57,10 +57,10 @@ const banmsgporn = 'Hmmm pornozinho com antiporn ativado, ja sabe né...'
 const adminmsgporn = '*Tu é adm ent n vou te banir por mandar porno*'
 // mensagem de quando adm manda porn com antiporn ativado
 
-const banmsglink = 'Corra Membro comum, O ban está próximo...'
+const banmsglink = 'Link? ai não meu caro adeus...'
 // mensagem de ban no antilink
 
-const adminmsglink = 'Isso é um link amigo... ah é tu é adm ent pode kkkk 🙃'
+const adminmsglink = 'Isso é um link amigo... ah é ademero(a) dsclp ai 🌹'
 // mensagem de quando adm manda link
 
 const adminmsgpalavra = 'isso esta na lista das palavras proibidas pelo bot'
@@ -89,7 +89,7 @@ const textmsgnig = 'Konbanwa Onii-chan, espero que tenha tido um bom dia ☺️'
 
 // MENSAGENS DE ERRO
 
-const msgerr = 'Deu erro krlh :/'
+const msgerr = 'Você digitou o comando errado Animal'
 // mensagem de erro
 
 const notregister = `*Comando não registrado, escreva ${prefix}menu para ver a lista de comandos*`
@@ -115,8 +115,8 @@ const dono = 'Meu papai 𝕂𝕀𝕃𝕃𝕌𝔸'
 
 // MENSAGENS DE EXCLUSIVIDADE
 let mess = {
-    wait: '⌛ Enquanto isso tome um café ☕... ⌛',
-    success: '✔️ Deu certo! ✔️',
+    wait: '⌛ Enquanto isso tome um café☕... ⌛',
+    success: '✔️ Ufa de certo! ✔️',
     error: {
         stick: '❌ Falha, ocorreu um erro ao converter a imagem em um adesivo ❌',
         Iv: '❌ Link inválido ❌'
@@ -125,8 +125,8 @@ let mess = {
         group: '❌ Este comando só pode ser usado em grupos! ❌',
         ownerG: '❌ Este comando só pode ser usado pelo grupo proprietário! ❌',
         ownerB: '❌ Este comando só pode ser usado pelo número proprietário! ❌',
-        admin: '❌ SILÊNCIO MEMBRO VC N TEM MORAL PRA USAR ESSE COMANDO ❌',
-        Badmin: '❌ Este comando só pode ser usado quando o bot se torna administrador! ❌'
+        admin: '❌ KLADO MEMBRO VC N TEM CARGO PRA USAR ESSE COMANDO ❌',
+        Badmin: '❌ Este comando só pode ser usado quando o Bot se torna administrador! ❌'
     }
 }
 
